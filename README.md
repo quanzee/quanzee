@@ -1,12 +1,8 @@
 # About me
 
-
-**quanzee/quanzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on developing a web-based game application
-- 🌱 I’m currently learning Github, Software Engineering Fundamentals, Database Concepts, IT Infrastructure and Security and Programming Fundamentals
+- 🌱 I’m currently self-learning Github
+- 🎓 In uni, I'm currently learning Software Engineering Fundamentals, Database Concepts, IT Infrastructure and Security and Programming Fundamentals
 - 👯 I’m looking to collaborate on (unsure yet)
 - 🤔 I’m looking for help with (unsure yet)
 - 📫 How to reach me: here or on LinkedIn
