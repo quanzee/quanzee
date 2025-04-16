@@ -1,11 +1,33 @@
-# About me
+<h1 align="center">Hi 👋, I'm Janna</h1>
+<h3 align="center">Passionate about building fun projects and exploring how the evolving interplay between technology and society is shaping our world’s future | I strongly believe in the importance of fun apps and tech in further enriching our lives</h3>
 
-- 🔭 I’m currently working on developing a web-based game application
-- 🌱 I’m currently self-learning Github
-- 🎓 In uni, I'm currently learning Software Engineering Fundamentals, Database Concepts, IT Infrastructure and Security and Programming Fundamentals
-- 👯 I’m looking to collaborate on (unsure yet)
-- 🤔 I’m looking for help with (unsure yet)
-- 📫 How to reach me: here or on LinkedIn
-- 🎈 Interests: Reading fiction and non-fiction, fitness, games, technology
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quanzee&label=Profile%20views&color=0e75b6&style=flat" alt="quanzee" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanzee" alt="quanzee" /></a> </p>
+
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), **my own custom desktop widget**, **developing my own website**
+
+- 🌱 I’m currently self-learning **Web Development
+
+- 🎓 I'm currently learning **IT Infrastructure and Security, Database Concepts, Software Engineering Fundamentals, Pixel Art** in uni
+
+- 📫 How to reach me **jannang201@gmail.com**
+
+- 🎈 Interests: Reading fiction and non-fiction, fitness, games, pixel art, generative art, AI
+
+- 📕 Current Read: Bits to Bitcoins
+  
 - ⚡ Fun fact: I did my undergraduate studies in finance and economics and worked for about a year in consulting with zero tech background, so I surprised myself with the keen interest I now have in tech!
+
+- 📄 Know about my experiences [www.linkedin.com/in/janna-ng-quanzee](www.linkedin.com/in/janna-ng-quanzee)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quanzee&show_icons=true&locale=en" alt="quanzee" /></p>
+
 
