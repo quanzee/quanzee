@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Janna  (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧</h1>
-<h3 align="center">Passionate about building fun projects and exploring how the evolving interplay between technology and society is shaping our world’s future | I strongly believe in the importance of fun apps and tech in further enriching our lives</h3>
+<h3 align="center">Passionate about building fun projects | I strongly believe in the importance of fun apps and tech in further enriching our lives</h3>
 <h3 align="center">(҂◡_◡) ᕤ</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), **my own custom desktop widget**, **developing my own website**
