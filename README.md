@@ -2,15 +2,15 @@
 <h3 align="center">Passionate about building fun projects | I strongly believe in the importance of fun apps and tech in further enriching our lives</h3>
 <h3 align="center">(҂◡_◡) ᕤ</h3>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/), **my own custom desktop widget**, and **developing my own website**
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
 - 🌱 I’m currently self-learning **Web Development** and **Pixel Art**
 
-- 🎓 I'm currently learning **IT Infrastructure and Security, Database Concepts, Software Engineering Fundamentals** in uni
+- 🎓 I'm currently learning **IT Infrastructure and Security, Database Concepts, Software Engineering Fundamentals, Programming Fundamentals** in uni
 
-- 🎈 Interests: Reading fiction and non-fiction, fitness, games, pixel art, generative art, AI
+- 🎈 Interests: Fiction, non-fiction, anime, manga, fitness, games, pixel art, generative art, AI
 
-- 📕 Current Read: Bits to Bitcoins
+- 📕 Current Read: Tokyo Ghoul
   
 - ⚡ Fun fact: I did my undergraduate studies in finance and economics and worked for about a year in consulting with zero tech background, so I surprised myself with the keen interest I now have in tech!
 
